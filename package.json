@@ -43,7 +43,7 @@
       "git add"
     ]
   },
-  "name": "devops",
+  "name": "randomdevopsprojectforzaliczenie",
   "scripts": {
     "build": "cross-env BABEL_ENV=dev vue-cli-service build",
     "lint": "vue-cli-service lint",
