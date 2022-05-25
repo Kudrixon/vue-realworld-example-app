@@ -1,5 +1,5 @@
 {
-  "author": "Przemke <polokol13@gmail.com>",
+  "author": "boriasznikow <polokol13@gmail.com>",
   "dependencies": {
     "axios": "^0.19.0",
     "date-fns": "^1.30.1",
